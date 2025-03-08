@@ -1,2 +1,2 @@
-# adatelemz-s-szorgalmi-h-zi
-Karakterfelismerő CNN
+# Adatelemzés szorgalmi házi
+Karakterfelismerő CNN építése
