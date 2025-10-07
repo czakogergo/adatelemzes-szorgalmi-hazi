@@ -1,2 +1,4 @@
-# Adatelemzés szorgalmi házi
-Karakterfelismerő CNN építése
+# Data Analysis with Deep learning methods option homework
+
+
+Character recogniton using cnn
